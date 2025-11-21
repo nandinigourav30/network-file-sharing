@@ -29,5 +29,3 @@ Multiple clients can connect to a central server, list available files, upload n
 - Organized storage in a dedicated `server_files/` directory  
 
 ---
-
-## 🧩 System Architecture
